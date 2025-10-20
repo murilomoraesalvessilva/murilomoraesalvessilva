@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Murilo Moraes
 
-<!--
-**murilomoraesalvessilva/murilomoraesalvessilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Desenvolvedor Front-End em formação**  
+💻 Estudando **HTML, CSS, JavaScript, Vue.js e TailwindCSS**  
+🚀 Apaixonado por tecnologia, interfaces e boas experiências de usuário.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias que estou aprendendo:
+- HTML5 / CSS3 / JavaScript  
+- Vue.js  
+- TailwindCSS  
+- Git e GitHub  
+- Python (para fundamentos de lógica e POO)
+
+---
+
+## 📊 GitHub Stats
+![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+
+---
+
+## 🌐 Onde me encontrar:
+- 💼 [LinkedIn]([https://www.linkedin.com/in/SEU-USUARIO](https://www.linkedin.com/in/murilo-moraes-0ab51038b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app])
+- 📸 [Instagram]([https://www.instagram.com/somurilomesmo?utm_source=qr&igsh=NWVmYnhmODM4c2N5])
+- ✉️ Email: **murilomoraesestudante@email.com**
+
+---
+
+🧠 _“Aprendizado constante é a chave para o sucesso na programação.”_
+
