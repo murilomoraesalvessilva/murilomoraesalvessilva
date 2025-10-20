@@ -16,7 +16,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=murilomoraesalvessilva&show_icons=true&theme=tokyonight)
 
 ---
 
