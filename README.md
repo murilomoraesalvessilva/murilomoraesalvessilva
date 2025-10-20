@@ -21,8 +21,8 @@
 ---
 
 ## 🌐 Onde me encontrar:
-- 💼 [LinkedIn]([https://www.linkedin.com/in/murilo-moraes-0ab51038b/])
-- 📸 [Instagram] @somurilomesmo
+- 💼 [LinkedIn](https://www.linkedin.com/in/murilo-moraes)
+- 📸 [Instagram](https://www.instagram.com/somurilomesmo)
 - ✉️ Email: **murilomoraesestudante@email.com**
 
 ---
